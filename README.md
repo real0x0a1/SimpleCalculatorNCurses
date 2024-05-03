@@ -1,11 +1,3 @@
-Sure, here's a suggestion for the repository name and a README.md file:
-
-**Repository Name:**
-"SimpleCalculatorNCurses"
-
-**README.md:**
-
-````markdown
 # Simple Calculator using NCurses
 
 This repository contains a simple calculator program implemented in C++ using the NCurses library. The calculator allows users to perform basic arithmetic operations such as addition, subtraction, multiplication, and division.
@@ -33,7 +25,6 @@ This repository contains a simple calculator program implemented in C++ using th
 ```bash
 g++ -o calculator SimpleCalculatorNCurses.cpp -lncurses
 ```
-````
 
 OR
 
@@ -48,8 +39,6 @@ make SimpleCalculatorNCurses
 ## Contributing
 
 Contributions are welcome! If you have any suggestions or improvements, feel free to open an issue or submit a pull request.
-
-```
 
 
 ## Author
